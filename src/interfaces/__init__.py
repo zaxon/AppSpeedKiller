@@ -1,0 +1,7 @@
+'''
+    interfaces:
+        get_gfxinfo
+
+        
+
+'''
